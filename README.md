@@ -1,5 +1,4 @@
-Minor Modification - One-Time Attack - Isaiah Lopez
+Isaiah Lopez and Donovan Peckham
 
-
-Major Modification - Timer - Donovan Peckham - 
-  Created the TimerText UI, Timer Object, and Timer Script.
+Minor Modification - One-Time Attack - 
+Major Modification - Timer - Created the TimerText UI, Timer Object, and Timer Script.
